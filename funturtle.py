@@ -20,4 +20,6 @@ turtle.goto(0,-300)
 turtle.clearstamps()
 """
 import turtle
-a=
+a=turtle.Turtle()
+a.shape('arro';)
+a.goto(50,10)
